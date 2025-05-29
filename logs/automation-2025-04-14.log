@@ -1,0 +1,64 @@
+20:25:21.316 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:25:24.384 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+20:25:24.840 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+20:25:25.196 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:25:26.576 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+20:25:26.624 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest ******
+20:25:28.766 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+20:26:51.709 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+20:26:52.089 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:26:54.693 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+20:26:55.076 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+20:26:55.443 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:26:56.067 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+20:26:56.706 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest ******
+20:26:58.960 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+20:29:12.358 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+20:29:12.670 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:38:03.418 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+20:38:03.790 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:39:03.669 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+20:39:04.109 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:39:06.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+20:39:07.362 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+20:39:07.708 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:39:08.939 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+20:39:08.992 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest ******
+20:39:11.201 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+20:42:34.153 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+20:42:34.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:42:37.128 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+20:42:37.636 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+20:42:38.070 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:42:39.196 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+20:42:39.227 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest ******
+20:42:41.561 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+20:42:57.773 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+20:42:58.175 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:44:52.570 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+20:44:52.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:52:30.565 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+20:52:30.936 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+20:52:34.065 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+20:52:34.473 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+20:52:34.835 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+20:52:35.458 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+20:52:36.050 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest ******

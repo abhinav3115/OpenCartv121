@@ -1,0 +1,59 @@
+15:11:38.991 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.jq.Main@3b1bb3ab: 72 ms
+15:11:39.016 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.FailedReporter@70e0accd: 16 ms
+15:11:39.033 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.XMLReporter@41382722: 17 ms
+15:11:39.041 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@2a7b6f69: 8 ms
+15:11:39.049 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@52eacb4b: 8 ms
+15:11:39.051 [main] INFO  org.testng.internal.Utils - [TestNG] Time taken by org.testng.internal.ExitCodeListener@5528a42c: 0 ms
+15:12:52.476 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+15:12:52.969 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+15:14:38.049 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+15:14:38.517 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+15:14:45.034 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+15:14:45.494 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+15:14:46.193 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:14:48.195 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+15:14:48.282 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest ******
+15:15:55.539 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml"
+15:15:57.029 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml
+
+15:16:00.620 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+15:16:01.046 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+15:16:02.340 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:16:04.337 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+15:16:04.578 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest ******
+15:17:07.565 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+15:17:08.014 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+15:17:12.221 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+15:17:12.687 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+15:17:13.167 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:17:14.853 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+15:17:14.902 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** finished TC001_AccountRegistrationTest ******
+15:19:01.087 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml"
+15:19:01.513 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml
+
+15:19:08.538 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+15:20:09.851 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml"
+15:20:10.309 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml
+
+15:20:13.061 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+15:20:17.843 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+15:20:18.324 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+15:20:19.010 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+15:20:20.939 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+15:20:36.827 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml"
+15:20:37.241 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml
+
+15:20:39.319 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+15:20:43.384 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+15:20:43.529 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+15:20:43.935 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
