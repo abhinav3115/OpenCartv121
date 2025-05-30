@@ -1,0 +1,27 @@
+23:04:34.945 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml"
+23:04:35.331 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\master.xml
+
+23:04:40.558 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+23:04:40.980 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+23:04:41.384 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+23:04:42.759 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+23:04:45.318 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+23:06:59.036 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml"
+23:06:59.386 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml
+
+23:07:05.183 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+23:07:08.932 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+23:07:09.123 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+23:07:09.535 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+23:07:11.251 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
+23:07:36.149 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml"
+23:07:36.624 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\HP\eclipse-workspace\OpenCartv121\docker.xml
+
+23:07:38.961 [main] INFO  testCases.TC002_LoginTest - ******Starting TC002_loginTest ******
+23:07:42.394 [main] INFO  testCases.TC001_AccountRegistrationTest - ****** Starting TC001_AccountRegistrationTest**** 
+23:07:42.676 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my Account link
+23:07:43.203 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register link
+23:07:44.729 [main] INFO  testCases.TC001_AccountRegistrationTest - clicked on Continue
